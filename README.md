@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **usman.ghani@kics.edu.pk**
 - 👨‍💻 All of my projects are available at **http://seventhreality.com/RD_Project/projects_all**
-- 📝 I regularly write articles on **https://fukatsoft.com/b/public/**
+- 📝 I regularly write articles that are available at **https://fukatsoft.com/b/public/**
 - 📄 Know about my experiences **https://scholar.google.com/citations?user=WM9A5m4AAAAJ&hl=en**
 
 <div> <a href="https://twitter.com/Abdul194" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
